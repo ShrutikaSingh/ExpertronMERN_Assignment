@@ -44,3 +44,34 @@ You can go to `http://localhost:3000/` to test the application.
 
 #### Email: test@g.com
 #### Password: test@123
+
+# Ref: Images attached below
+
+### Welcome Page
+![image](https://user-images.githubusercontent.com/42492660/111233248-a7f02a80-8612-11eb-9f42-54248c37eb29.png)
+
+### Signup Page
+![image](https://user-images.githubusercontent.com/42492660/111232800-da4d5800-8611-11eb-8c39-d85410a8eb2d.png)
+
+### Signin Page
+![image](https://user-images.githubusercontent.com/42492660/111232908-fc46da80-8611-11eb-900d-a49a1322988f.png)
+
+### Task Page
+![image](https://user-images.githubusercontent.com/42492660/111232932-0cf75080-8612-11eb-8c96-aecbc697a1a3.png)
+
+### Task Detail Page with Edit and Delete feature
+![image](https://user-images.githubusercontent.com/42492660/111232984-28faf200-8612-11eb-91d4-7774984cc9ca.png)
+
+### Edit task with editor imlementation
+![image](https://user-images.githubusercontent.com/42492660/111233057-48921a80-8612-11eb-88e7-82aa56c8e751.png)
+
+### Admin Settings
+![image](https://user-images.githubusercontent.com/42492660/111233135-6a8b9d00-8612-11eb-93a2-0eeed0225b41.png)
+
+### Admin Profile
+
+
+### Admin Change Password Feature
+![Uploading image.png…]()
+
+
