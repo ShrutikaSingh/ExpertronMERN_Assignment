@@ -70,8 +70,10 @@ You can go to `http://localhost:3000/` to test the application.
 
 ### Admin Profile
 
+![image](https://user-images.githubusercontent.com/42492660/111233366-dec64080-8612-11eb-90c1-7d511e5a727b.png)
 
 ### Admin Change Password Feature
-![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/42492660/111233387-e71e7b80-8612-11eb-9e24-e536a3f61671.png)
 
 
