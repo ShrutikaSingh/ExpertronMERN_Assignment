@@ -2,7 +2,7 @@
 
 This is a MERN stack based fully functioning admin panel with ability to create, edit, delete tasks.You can click on the task name to edit and delete them and aslo it has some admin settings to edit profile and change password as well. 
 
-### [Note: Screen Images of running application is also attached below]
+## [Note: Screen Images of running application is also attached below]
 
 
 ## Tech Stack I have that I have used for this assignment
